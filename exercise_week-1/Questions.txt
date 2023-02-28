@@ -1,0 +1,3 @@
+1.C Program to convert Decimal number to Octal number.
+2.C Program to find GCD of two numbers using recursion.
+3.Write a program in C to check if a number is binary.
